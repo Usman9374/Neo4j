@@ -1,0 +1,316 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "pub_date": "1925",
+        "author": "F. Scott Fitzgerald",
+        "price": 10,
+        "genre": "Classic",
+        "title": "The Great Gatsby"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "pub_date": "1960",
+        "price": 12,
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "title": "To Kill a Mockingbird"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "pub_date": "1997",
+        "price": 15,
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "title": "Harry Potter and the Philosopher's Stone"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "pub_date": "1949",
+        "price": 11,
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "title": "1984"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Customer"
+      ],
+      "properties": {
+        "address": "123 Main St, City, Country",
+        "name": "Alice",
+        "payment": "Credit Card",
+        "email": "alice@example.com"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Customer"
+      ],
+      "properties": {
+        "address": "456 Oak St, Town, Country",
+        "name": "Bob",
+        "payment": "PayPal",
+        "email": "bob@example.com"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Order"
+      ],
+      "properties": {
+        "date": "2024-05-15",
+        "total": 37,
+        "order_id": "ORD001",
+        "status": "Processing"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Order"
+      ],
+      "properties": {
+        "date": "2024-05-16",
+        "total": 28,
+        "order_id": "ORD002",
+        "status": "Shipped"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Inventory"
+      ],
+      "properties": {
+        "quantity": 50,
+        "book_id": 1
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Inventory"
+      ],
+      "properties": {
+        "quantity": 30,
+        "book_id": 2
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Inventory"
+      ],
+      "properties": {
+        "quantity": 40,
+        "book_id": 3
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Inventory"
+      ],
+      "properties": {
+        "quantity": 20,
+        "book_id": 4
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Review"
+      ],
+      "properties": {
+        "rating": 4,
+        "comment": "Great book, highly recommended!",
+        "book_id": 1,
+        "customer_name": "Alice"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Review"
+      ],
+      "properties": {
+        "rating": 5,
+        "comment": "One of the best classics I've read",
+        "book_id": 1,
+        "customer_name": "Bob"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Review"
+      ],
+      "properties": {
+        "rating": 5,
+        "comment": "Amazing storytelling, a must-read",
+        "book_id": 2,
+        "customer_name": "Alice"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Review"
+      ],
+      "properties": {
+        "rating": 4,
+        "comment": "Captivating world and characters",
+        "book_id": 3,
+        "customer_name": "Bob"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Discount"
+      ],
+      "properties": {
+        "amount": 25,
+        "code": "SPRING25"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Discount"
+      ],
+      "properties": {
+        "amount": 20,
+        "code": "SUMMER20"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Discount"
+      ],
+      "properties": {
+        "amount": 30,
+        "code": "FALL30"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "ShippingProvider"
+      ],
+      "properties": {
+        "service_type": "Express",
+        "name": "UPS"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "ShippingProvider"
+      ],
+      "properties": {
+        "service_type": "Standard",
+        "name": "FedEx"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "ShippingProvider"
+      ],
+      "properties": {
+        "service_type": "Priority Mail",
+        "name": "USPS"
+      },
+      "elementId": "4:91582edd-62db-4f82-aedf-b74b97c4bedf:21"
+    }
+  }
+]
