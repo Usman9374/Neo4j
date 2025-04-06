@@ -1,0 +1,247 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "John",
+        "age": 20
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Alice",
+        "age": 22
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Bob",
+        "age": 21
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "credits": 4,
+        "name": "Mathematics"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "credits": 3,
+        "name": "Computer Science"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Professor"
+      ],
+      "properties": {
+        "name": "Dr. Smith"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Professor"
+      ],
+      "properties": {
+        "name": "Prof. Johnson"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Department"
+      ],
+      "properties": {
+        "name": "Computer Science"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Department"
+      ],
+      "properties": {
+        "name": "Mathematics"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Professor"
+      ],
+      "properties": {
+        "name": "Dr. Smith",
+        "department": "Computer Science"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Professor"
+      ],
+      "properties": {
+        "name": "Prof. Johnson",
+        "department": "Computer Science"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Professor"
+      ],
+      "properties": {
+        "name": "Dr. White",
+        "department": "Mathematics"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "name": "Introduction to Programming",
+        "department": "Computer Science"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "name": "Data Structures",
+        "department": "Computer Science"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "name": "Calculus",
+        "department": "Mathematics"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "name": "Linear Algebra",
+        "department": "Mathematics"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Assignment"
+      ],
+      "properties": {
+        "grade": 92,
+        "due_date": "2024-05-20",
+        "name": "Programming Project 1"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Assignment"
+      ],
+      "properties": {
+        "due_date": "2024-05-25",
+        "name": "Data Structures Assignment 1"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Assignment"
+      ],
+      "properties": {
+        "grade": 78,
+        "due_date": "2024-05-30",
+        "name": "Calculus Quiz 1"
+      },
+      "elementId": "4:bd77f095-813f-4785-bb72-e11c88daaee6:18"
+    }
+  }
+]
